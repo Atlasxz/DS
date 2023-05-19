@@ -1,0 +1,29 @@
+C:\Users\Lab_ETESP\source\repos\PrjControleDiversos\PrjControleDiversos\bin\Debug\PrjControleDiversos.exe.config
+C:\Users\Lab_ETESP\source\repos\PrjControleDiversos\PrjControleDiversos\bin\Debug\PrjControleDiversos.exe
+C:\Users\Lab_ETESP\source\repos\PrjControleDiversos\PrjControleDiversos\bin\Debug\PrjControleDiversos.pdb
+C:\Users\Lab_ETESP\source\repos\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.Form1.resources
+C:\Users\Lab_ETESP\source\repos\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.Properties.Resources.resources
+C:\Users\Lab_ETESP\source\repos\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.csproj.GenerateResource.cache
+C:\Users\Lab_ETESP\source\repos\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\source\repos\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.exe
+C:\Users\Lab_ETESP\source\repos\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.pdb
+E:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\bin\Debug\PrjControleDiversos.exe.config
+E:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\bin\Debug\PrjControleDiversos.exe
+E:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\bin\Debug\PrjControleDiversos.pdb
+E:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.csprojAssemblyReference.cache
+E:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.Form1.resources
+E:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.Properties.Resources.resources
+E:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.csproj.GenerateResource.cache
+E:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.csproj.CoreCompileInputs.cache
+E:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.exe
+E:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.pdb
+F:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\bin\Debug\PrjControleDiversos.exe.config
+F:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\bin\Debug\PrjControleDiversos.exe
+F:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\bin\Debug\PrjControleDiversos.pdb
+F:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.csprojAssemblyReference.cache
+F:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.Form1.resources
+F:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.Properties.Resources.resources
+F:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.csproj.GenerateResource.cache
+F:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.csproj.CoreCompileInputs.cache
+F:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.exe
+F:\Conteudo - ETESP - 2023\DS\PrjControleDiversos\PrjControleDiversos\obj\Debug\PrjControleDiversos.pdb

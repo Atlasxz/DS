@@ -1,0 +1,30 @@
+C:\Users\Lab_ETESP\source\repos\PrjCadastroC_Variavel\PrjCadastroC_Variavel\bin\Debug\PrjCadastroC_Variavel.exe.config
+C:\Users\Lab_ETESP\source\repos\PrjCadastroC_Variavel\PrjCadastroC_Variavel\bin\Debug\PrjCadastroC_Variavel.exe
+C:\Users\Lab_ETESP\source\repos\PrjCadastroC_Variavel\PrjCadastroC_Variavel\bin\Debug\PrjCadastroC_Variavel.pdb
+C:\Users\Lab_ETESP\source\repos\PrjCadastroC_Variavel\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\source\repos\PrjCadastroC_Variavel\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.Exe005.resources
+C:\Users\Lab_ETESP\source\repos\PrjCadastroC_Variavel\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.Properties.Resources.resources
+C:\Users\Lab_ETESP\source\repos\PrjCadastroC_Variavel\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.csproj.GenerateResource.cache
+C:\Users\Lab_ETESP\source\repos\PrjCadastroC_Variavel\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\source\repos\PrjCadastroC_Variavel\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.exe
+C:\Users\Lab_ETESP\source\repos\PrjCadastroC_Variavel\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.pdb
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel\PrjCadastroC_Variavel\bin\Debug\PrjCadastroC_Variavel.exe.config
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel\PrjCadastroC_Variavel\bin\Debug\PrjCadastroC_Variavel.exe
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel\PrjCadastroC_Variavel\bin\Debug\PrjCadastroC_Variavel.pdb
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.csprojAssemblyReference.cache
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.Exe005.resources
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.Properties.Resources.resources
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.csproj.GenerateResource.cache
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.csproj.CoreCompileInputs.cache
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.exe
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.pdb
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel 2\PrjCadastroC_Variavel\bin\Debug\PrjCadastroC_Variavel.exe.config
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel 2\PrjCadastroC_Variavel\bin\Debug\PrjCadastroC_Variavel.exe
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel 2\PrjCadastroC_Variavel\bin\Debug\PrjCadastroC_Variavel.pdb
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel 2\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.csprojAssemblyReference.cache
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel 2\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.Exe005.resources
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel 2\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.Properties.Resources.resources
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel 2\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.csproj.GenerateResource.cache
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel 2\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.csproj.CoreCompileInputs.cache
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel 2\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.exe
+F:\Conteudo - ETESP - 2023\DS\PrjCadastroC_Variavel 2\PrjCadastroC_Variavel\obj\Debug\PrjCadastroC_Variavel.pdb

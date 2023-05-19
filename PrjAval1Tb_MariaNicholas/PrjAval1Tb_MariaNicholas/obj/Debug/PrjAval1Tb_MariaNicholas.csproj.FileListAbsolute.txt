@@ -1,0 +1,10 @@
+C:\Users\Lab_ETESP\source\repos\PrjAval1Tb_MariaNicholas\PrjAval1Tb_MariaNicholas\bin\Debug\PrjAval1Tb_MariaNicholas.exe.config
+C:\Users\Lab_ETESP\source\repos\PrjAval1Tb_MariaNicholas\PrjAval1Tb_MariaNicholas\bin\Debug\PrjAval1Tb_MariaNicholas.exe
+C:\Users\Lab_ETESP\source\repos\PrjAval1Tb_MariaNicholas\PrjAval1Tb_MariaNicholas\bin\Debug\PrjAval1Tb_MariaNicholas.pdb
+C:\Users\Lab_ETESP\source\repos\PrjAval1Tb_MariaNicholas\PrjAval1Tb_MariaNicholas\obj\Debug\PrjAval1Tb_MariaNicholas.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\source\repos\PrjAval1Tb_MariaNicholas\PrjAval1Tb_MariaNicholas\obj\Debug\PrjAval1Tb_MariaNicholas.Form1.resources
+C:\Users\Lab_ETESP\source\repos\PrjAval1Tb_MariaNicholas\PrjAval1Tb_MariaNicholas\obj\Debug\PrjAval1Tb_MariaNicholas.Properties.Resources.resources
+C:\Users\Lab_ETESP\source\repos\PrjAval1Tb_MariaNicholas\PrjAval1Tb_MariaNicholas\obj\Debug\PrjAval1Tb_MariaNicholas.csproj.GenerateResource.cache
+C:\Users\Lab_ETESP\source\repos\PrjAval1Tb_MariaNicholas\PrjAval1Tb_MariaNicholas\obj\Debug\PrjAval1Tb_MariaNicholas.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\source\repos\PrjAval1Tb_MariaNicholas\PrjAval1Tb_MariaNicholas\obj\Debug\PrjAval1Tb_MariaNicholas.exe
+C:\Users\Lab_ETESP\source\repos\PrjAval1Tb_MariaNicholas\PrjAval1Tb_MariaNicholas\obj\Debug\PrjAval1Tb_MariaNicholas.pdb

@@ -1,0 +1,41 @@
+C:\Users\Lab_ETESP\source\repos\PrjOperadores\PrjOperadores\bin\Debug\PrjOperadores.exe.config
+C:\Users\Lab_ETESP\source\repos\PrjOperadores\PrjOperadores\bin\Debug\PrjOperadores.exe
+C:\Users\Lab_ETESP\source\repos\PrjOperadores\PrjOperadores\bin\Debug\PrjOperadores.pdb
+C:\Users\Lab_ETESP\source\repos\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\source\repos\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.Form1.resources
+C:\Users\Lab_ETESP\source\repos\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.Properties.Resources.resources
+C:\Users\Lab_ETESP\source\repos\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.csproj.GenerateResource.cache
+C:\Users\Lab_ETESP\source\repos\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\source\repos\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.exe
+C:\Users\Lab_ETESP\source\repos\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.pdb
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\bin\Debug\PrjOperadores.exe.config
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\bin\Debug\PrjOperadores.exe
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\bin\Debug\PrjOperadores.pdb
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.csprojAssemblyReference.cache
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.Form1.resources
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.Properties.Resources.resources
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.csproj.GenerateResource.cache
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.csproj.CoreCompileInputs.cache
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.exe
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.pdb
+E:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\bin\Debug\PrjOperadores.exe.config
+E:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\bin\Debug\PrjOperadores.exe
+E:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\bin\Debug\PrjOperadores.pdb
+E:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.csprojAssemblyReference.cache
+E:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.Form1.resources
+E:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.Properties.Resources.resources
+E:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.csproj.GenerateResource.cache
+E:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.csproj.CoreCompileInputs.cache
+E:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.exe
+E:\Conteudo - ETESP - 2023\DS\PrjOperadores\PrjOperadores\obj\Debug\PrjOperadores.pdb
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores - NumericDown\PrjOperadores\bin\Debug\PrjOperadores.exe.config
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores - NumericDown\PrjOperadores\bin\Debug\PrjOperadores.exe
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores - NumericDown\PrjOperadores\bin\Debug\PrjOperadores.pdb
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores - NumericDown\PrjOperadores\obj\Debug\PrjOperadores.csprojAssemblyReference.cache
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores - NumericDown\PrjOperadores\obj\Debug\PrjOperadores.Form1.resources
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores - NumericDown\PrjOperadores\obj\Debug\PrjOperadores.Form2.resources
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores - NumericDown\PrjOperadores\obj\Debug\PrjOperadores.Properties.Resources.resources
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores - NumericDown\PrjOperadores\obj\Debug\PrjOperadores.csproj.GenerateResource.cache
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores - NumericDown\PrjOperadores\obj\Debug\PrjOperadores.csproj.CoreCompileInputs.cache
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores - NumericDown\PrjOperadores\obj\Debug\PrjOperadores.exe
+F:\Conteudo - ETESP - 2023\DS\PrjOperadores - NumericDown\PrjOperadores\obj\Debug\PrjOperadores.pdb

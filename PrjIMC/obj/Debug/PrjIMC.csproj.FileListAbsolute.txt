@@ -1,0 +1,20 @@
+C:\Users\Lab_ETESP\source\repos\PrjIMC\bin\Debug\PrjIMC.exe.config
+C:\Users\Lab_ETESP\source\repos\PrjIMC\bin\Debug\PrjIMC.exe
+C:\Users\Lab_ETESP\source\repos\PrjIMC\bin\Debug\PrjIMC.pdb
+C:\Users\Lab_ETESP\source\repos\PrjIMC\obj\Debug\PrjIMC.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\source\repos\PrjIMC\obj\Debug\PrjIMC.Form1.resources
+C:\Users\Lab_ETESP\source\repos\PrjIMC\obj\Debug\PrjIMC.Properties.Resources.resources
+C:\Users\Lab_ETESP\source\repos\PrjIMC\obj\Debug\PrjIMC.csproj.GenerateResource.cache
+C:\Users\Lab_ETESP\source\repos\PrjIMC\obj\Debug\PrjIMC.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\source\repos\PrjIMC\obj\Debug\PrjIMC.exe
+C:\Users\Lab_ETESP\source\repos\PrjIMC\obj\Debug\PrjIMC.pdb
+F:\Conteudo - ETESP - 2023\DS\PrjIMC\bin\Debug\PrjIMC.exe.config
+F:\Conteudo - ETESP - 2023\DS\PrjIMC\bin\Debug\PrjIMC.exe
+F:\Conteudo - ETESP - 2023\DS\PrjIMC\bin\Debug\PrjIMC.pdb
+F:\Conteudo - ETESP - 2023\DS\PrjIMC\obj\Debug\PrjIMC.csprojAssemblyReference.cache
+F:\Conteudo - ETESP - 2023\DS\PrjIMC\obj\Debug\PrjIMC.Form1.resources
+F:\Conteudo - ETESP - 2023\DS\PrjIMC\obj\Debug\PrjIMC.Properties.Resources.resources
+F:\Conteudo - ETESP - 2023\DS\PrjIMC\obj\Debug\PrjIMC.csproj.GenerateResource.cache
+F:\Conteudo - ETESP - 2023\DS\PrjIMC\obj\Debug\PrjIMC.csproj.CoreCompileInputs.cache
+F:\Conteudo - ETESP - 2023\DS\PrjIMC\obj\Debug\PrjIMC.exe
+F:\Conteudo - ETESP - 2023\DS\PrjIMC\obj\Debug\PrjIMC.pdb
